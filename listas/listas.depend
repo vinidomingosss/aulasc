@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572483615 source:/home/aluno/Desktop/vinned/listas/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoesLista.h"
+
+1572483615 /home/aluno/Desktop/vinned/listas/funcoesLista.h
+
