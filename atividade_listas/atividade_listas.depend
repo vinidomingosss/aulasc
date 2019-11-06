@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573082333 source:/home/aluno/Desktop/vinned/atividade_listas/main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1573082459 /home/aluno/Desktop/vinned/atividade_listas/functions.h
+
